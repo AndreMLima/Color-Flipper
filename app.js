@@ -2,7 +2,7 @@
 - btn: button
 - color: span that specifies the name of the color in the HTML file.
 */
-const colors = ["green", "red", "orange", "purple", "gold", "aquamarine", "blanchedalmond", "chocolate", "darkcyan", "brown", "darkgoldenrod", "darkgreen"];
+const colors = ["green", "LightGray", "red", "orange", "purple", "gold", "aquamarine", "blanchedalmond", "chocolate", "darkcyan", "brown", "darkgoldenrod", "darkgreen"];
 const btn = document.getElementById('btn');
 const color = document.querySelector('.color');
 
